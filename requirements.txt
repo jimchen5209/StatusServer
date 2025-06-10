@@ -2,7 +2,7 @@ aiogram==2.9.2
 flask==3.0.0
 gevent==23.9.1
 psutil==5.9.6
-requests==2.32.3
+requests==2.32.4
 ujson==5.8.0
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
 werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
